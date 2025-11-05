@@ -2,3 +2,7 @@ lightgbm
 pandas
 numpy
 scikit-learn
+fastapi
+uvicorn[standard]
+python-multipart
+requests
