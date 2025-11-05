@@ -1,1 +1,4 @@
-{ "image": "mcr.microsoft.com/devcontainers/javascript-node" }
+{ 
+  /*To be changed to python image when available*/
+  "image": "mcr.microsoft.com/devcontainers/javascript-node" 
+}
